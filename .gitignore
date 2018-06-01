@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VS stuff
+*Debug/
+*.ipch
+*.vcxproj
+*.filters
+*.db
+*.opendb
+*.sln
+
